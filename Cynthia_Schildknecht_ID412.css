@@ -1,0 +1,296 @@
+
+/*{outline: 1px solid blue;}*/
+body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    gap: 1rem; 
+    
+} 
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 79px;
+    left: 150px;
+    top: 10px;
+    background-color: #F2CEDA;
+    
+    
+    }
+
+.topnav { 
+    margin-left: 5rem;
+   
+
+}
+.home{
+    margin-left: 10rem;
+    color: #D23166;
+    font-weight: bolder;
+}
+.logo {
+    margin: 30rem;
+    margin-left: -21rem;
+}
+
+.boutton {
+    text-align: center;
+    margin-top: 0.8rem;
+    color: white;   
+}
+
+.pink {
+    margin-left: 20rem;
+    margin-right: -30rem;
+    background-color: #D23166;
+    border-radius: 0.5rem;
+    width: 7rem;
+    height: 3rem;
+}
+
+.main {
+    background-color: #F2CEDA;
+    width: 10rem;
+
+}
+
+ .texte{
+    display: flex;
+    flex-direction: column;
+    margin-left: 11rem;
+    width: 50rem;
+}
+
+.textee{
+    margin-top: 19rem ;
+    margin-left: 10rem;
+}
+
+.texte2 {
+    font-size: small;
+     
+}
+
+.texte3 {
+    font-size: larger;
+    font-size: 200%;
+}
+
+.texte3 h1 {
+    margin-top: -15px;
+    }
+
+.texte4 {
+    font-size: medium;
+}
+
+.texte4 p {
+    margin-top: -15px;
+}
+
+.homepage{
+    background-color: #F2CEDA; 
+    height: 80vh;
+    display: flex;
+    
+}
+ .galce {
+    position: relative;
+    translate: 450px -10px;
+    width: 0rem;
+    height: 0rem;
+ }
+.galce img{
+    object-fit: cover;
+    margin-top: 5rem; 
+    margin-left: 2rem; 
+    height: 80vh;
+    width: 60vh;
+
+}
+.partie1 {
+    display: flex;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    margin: 5rem;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 15px;
+
+   
+    
+ }
+
+ .box1 {
+     outline: 0.5px solid rgb(222, 220, 220);
+     border-radius: 0.5rem;
+     padding: 1rem;
+     box-shadow: 10px 10px 10px rgb(212, 212, 212);
+     margin-left: 4rem;
+    
+ }
+
+ .box2 {
+    outline: 0.5px solid rgb(222, 220, 220);
+     border-radius: 0.5rem;
+     padding: 1rem;
+ }
+
+.box3{
+    outline: 0.5px solid rgb(222, 220, 220);
+     border-radius: 0.5rem;
+     padding: 1rem;
+}
+
+.box4{
+    outline: 0.5px solid rgb(222, 220, 220);
+     border-radius: 0.5rem;
+     padding: 1rem;
+     margin-right: 4rem;
+}
+ 
+.partie2 {
+    display: flex;
+    margin-left: 19rem;
+
+
+}
+
+.partie2 {
+    background-color: #F2CEDA;
+    height: 50vh;
+    display: flex;
+    margin-left: 0rem;
+}
+.brown {
+    margin-left: 19rem;
+    margin-top: 15rem;
+    font-size: medium;
+
+}  
+
+.brown h1 {
+    font-size: 50px;
+    margin-top: -5rem;
+}
+
+.brown p {
+    font-size: 20px;
+    margin-top: -2rem;
+}
+
+.pink2 {
+    margin-left: -34.5rem;
+    margin-top: 21rem;
+    margin-right: -30rem;
+    background-color: #D23166;
+    border-radius: 0.5rem;
+    width: 7rem;
+    height: 3rem;
+}
+ .boutton2 {
+    text-align: center;
+    margin-top: 0.7rem;
+    color: white;
+    
+ }
+
+
+.biscuit
+{
+    margin-left: 90rem;
+    margin-top: -39rem;
+
+}
+
+.products {
+    display: flex;
+}
+
+.nopro {
+    margin-left: 63rem;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.boxnav {
+    display: flex;
+    margin-top: 5rem;
+    
+}
+
+.navtop1 {
+    margin-left: 25rem;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-decoration: underline #D23166;
+    
+   
+}
+
+.navtop2 {
+    margin-left: 7rem;
+    font-size: 1.5rem;
+}
+
+.navtop3 {
+    margin-left: 7rem;
+    font-size: 1.5rem;
+}
+
+.navtop4 {
+    margin-left: 7rem;
+    font-size: 1.5rem;
+}
+.navtop5 {
+    margin-left: 7rem;
+    font-size: 1.5rem;
+}
+
+.navtop6 {
+    margin-left: 7rem;
+    font-size: 1.5rem;
+}
+
+.bread {
+    display: flex;
+    margin-top: 7rem;
+
+}
+
+.breadi {
+    margin-left: 30rem;
+}
+
+.tbread h1 {
+    margin-left: 5rem;
+    margin-top: 10rem;
+    font-size: bolder;
+    font-size: 1.5rem;
+
+}
+
+.tbread p {
+    margin-left: 5rem;
+
+}
+
+.tbread h2 {
+    margin-left: 5rem;
+}
+
+.pink3 {
+
+    margin-left: 5rem;
+    margin-top: 2rem;
+    margin-right: -30rem;
+    background-color: #D23166;
+    border-radius: 0.5rem;
+    width: 7rem;
+    height: 3rem;   
+}
+
+.boutton3 {
+    margin-top: 1rem;
+    margin: ;
+    
+}
