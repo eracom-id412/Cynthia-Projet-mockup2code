@@ -1,5 +1,5 @@
 
-/*{outline: 1px solid blue;}*/
+*{outline: 1px solid blue;}
 body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     gap: 1rem; 
     
@@ -12,24 +12,22 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
     height: 79px;
     left: 150px;
     top: 10px;
-    background-color: #F2CEDA;
-    
-    
-    }
+    background-color: #F2CEDA;    
+}
 
 .topnav { 
     margin-left: 5rem;
-   
-
 }
+
 .home{
     margin-left: 10rem;
     color: #D23166;
     font-weight: bolder;
 }
+
 .logo {
     margin: 30rem;
-    margin-left: -21rem;
+    margin-left: 50rem;
 }
 
 .boutton {
@@ -114,10 +112,7 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
     margin: 5rem;
     text-align: center;
     justify-content: space-around;
-    font-size: 15px;
-
-   
-    
+    font-size: 15px;   
  }
 
  .box1 {
@@ -143,8 +138,17 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
 
 .box4{
     outline: 0.5px solid rgb(222, 220, 220);
-     border-radius: 0.5rem;
-     padding: 1rem;
-     margin-right: 4rem;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-right: 4rem;
 }
  
+.footer {
+    background-color: black;
+    height: 5rem;
+
+}
+
+.logo2 {
+    margin-left: 20rem;
+}
