@@ -1,88 +1,89 @@
 
 /*{outline: 1px solid blue;}*/
 body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    gap: 1rem; 
+    gap: 1vw; 
     
 } 
 
 .header {
     display: flex;
     align-items: center;
-    justify-content: center;
-    height: 79px;
-    left: 150px;
-    top: 10px;
+   
+    height: 7vh;
+    top: 1vw;
     background-color: #F2CEDA;    
 }
 
 .topnav { 
-    margin-left: 5rem;
+    margin-left: 3vw;
+
 }
 
 .home{
-    margin-left: 10rem;
+    
     color: #D23166;
     font-weight: bolder;
 }
 
 .logo {
-    margin: 30rem;
-    margin-left: -20rem;
+    margin: 20vw;
+    margin-left: 18vw;
 }
 
 .boutton {
     text-align: center;
-    margin-top: 0.8rem;
+    margin-top: 0.3vw;
     color: white;   
 }
 
 .pink {
-    margin-left: 20rem;
-    margin-right: -30rem;
+    margin-left: 10vw;
+    margin-right: -5vw;
     background-color: #D23166;
-    border-radius: 0.5rem;
-    width: 7rem;
-    height: 3rem;
+    border-radius: 0.5vw;
+    width: 5vw;
+    height: 3vh;
 }
 
 .main {
     background-color: #F2CEDA;
-    width: 10rem;
+    width: 10vw;
 
 }
 
  .texte{
     display: flex;
     flex-direction: column;
-    margin-left: 11rem;
-    width: 50rem;
+    margin-left: 11vw;
+    width: 50vw;
 }
 
 .textee{
-    margin-top: 19rem ;
-    margin-left: 10rem;
+    margin-top: 13vw ;
+    margin-left: 7vw;
 }
 
 .texte2 {
-    font-size: small;
+    font-size: 0.8vw;
+    
      
 }
 
-.texte3 {
-    font-size: larger;
-    font-size: 200%;
+.texte3 {   
+    font-size: 2vw;
 }
 
 .texte3 h1 {
-    margin-top: -15px;
+    margin-top: 1vw;
     }
 
 .texte4 {
-    font-size: medium;
+    font-size: 1vw;
+    
 }
 
 .texte4 p {
-    margin-top: -15px;
+    margin-top: -2vw;
 }
 
 .homepage{
@@ -93,23 +94,24 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
 }
  .galce {
     position: relative;
-    translate: 450px -10px;
-    width: 0rem;
-    height: 0rem;
+    translate: 10vw -2vw;
+    width: 0vw;
+    height: 0vh;
  }
 .galce img{
     object-fit: cover;
-    margin-top: 5rem; 
-    margin-left: 2rem; 
+    margin-top: 5vh; 
+    margin-left: -15vw; 
     height: 80vh;
     width: 60vh;
 
 }
+
 .partie1 {
     display: flex;
-    margin-top: 5rem;
-    margin-left: 10rem;
-    margin: 5rem;
+    margin-top: 5vw;
+    margin-left: 19vw;
+    margin: 5vw;
     text-align: center;
     justify-content: space-around;
     font-size: 15px;   
@@ -117,69 +119,68 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
 
  .box1 {
      outline: 0.5px solid rgb(222, 220, 220);
-     border-radius: 0.5rem;
-     padding: 1rem;
+     border-radius: 0.5vw;
+     padding: 1vw;
      box-shadow: 10px 10px 10px rgb(212, 212, 212);
-     margin-left: 4rem;
+     margin-left: 9vw;
     
  }
 
  .box2 {
     outline: 0.5px solid rgb(222, 220, 220);
-     border-radius: 0.5rem;
-     padding: 1rem;
+     border-radius: 0.5vw;
+     padding: 1vw;
  }
 
 .box3{
     outline: 0.5px solid rgb(222, 220, 220);
-     border-radius: 0.5rem;
-     padding: 1rem;
+     border-radius: 0.5vw;
+     padding: 1vw;
 }
 
 .box4{
     outline: 0.5px solid rgb(222, 220, 220);
-    border-radius: 0.5rem;
-    padding: 1rem;
-    margin-right: 4rem;
+    border-radius: 0.5vw;
+    padding: 1vw;
+    margin-right: 4vw;
 }
 
 footer {
     background-color: black;
     display: flex;
     align-items: center;
-    height: 40rem;
+    height: 30vw;
 }
 .foot {
     display: flex;
     flex-direction: column;
     justify-content: center;
     background-color: black;
-    height: 30rem;
+    height: 20vw;
 
 
 }
 
 .logo2 {
-    margin-left: 20rem;
-
+    margin-left: 18vw;
     
 }
 
 .logo2 img {
-    height: 15vh;
-    width: 15vh;
+    height: 10vh;
+    width: 6vw;
 }
 
 .footert1 p {
     color: white;
-    margin-left: 20rem;
-    font-size: 1.5rem;
+    margin-left: 18vw;
+    font-size: 1vw;
 
 }
 
 .footert2 p {
     color: white;
-    margin-left: 20rem;
+    margin-left: 18vw;
     font-size: larger;
     font-weight: bold;
 
@@ -187,22 +188,68 @@ footer {
 
 .resaux {
     display: flex;
-    margin-left: 18rem;
+    margin-left: 17vw;
 
 
 }
 .resaux img{
     display: flex;
-    height: 3vh;
-    width: 3vh;
-    margin-left: 2rem;
+    height: 2.5vh;
+    width: 2.5vh;
+    margin-left: 1vw;
 }
 
+
+.footert3 {
+    margin-top: 4vw;
+
+}
 .footert3 p {
     
-    margin-left: 5rem;
+    margin-left: 8vw;
+    line-height: 2vh;
     color: white;
-    align-items: center;
-    font-size: 1.5rem;
-    line-height: 1rem;
+    font-size: 1vw;
 }
+
+.footert4 {
+    margin-top: 4vw;
+
+}
+.footert4 p {
+    
+    margin-left: 10vw;
+    line-height: 2vh;
+    color: white;
+    font-size: 1vw;
+}
+
+.footert5 {
+    margin-top: -3vw;
+
+}
+.footert5 h1 {
+    
+    margin-left: 10vw;
+    line-height: 2vh;
+    color: white;
+    font-size: 1vw;
+    font-weight: bolder;
+}
+
+.footert5 p {
+    
+    margin-left: 10vw;
+    color: white;
+    font-size: 1vw;  
+}
+
+input[type=text] {
+
+}
+
+input [type=submit] {
+    
+}
+
+
