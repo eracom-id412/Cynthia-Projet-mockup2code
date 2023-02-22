@@ -32,7 +32,7 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
 
 .logo img {
     width: 6vw;
-    height: 9vh;
+    height: 12vh;
 }
 
 .boutton {
@@ -190,7 +190,7 @@ footer {
 .footert2 p {
     color: white;
     margin-left: 18vw;
-    font-size: larger;
+    font-size: 1vw;
     font-weight: bold;
 
 }
@@ -247,7 +247,7 @@ footer {
 }
 
 .footert5 {
-    margin-left: 10vw;
+    margin-left: 7.5vw;
     color: white;
     font-size: 1vw;  
 }
@@ -264,13 +264,13 @@ footer {
 }
 
 .buttonh {
-   margin-left: 11.2vw;
+   margin-left: 10.2vw;
    margin-top: -3vh;
    font-weight: bolder;
 }
 
 .pink2{
-    margin-left: 10vw;
+    margin-left: 9vw;
     margin-top: -3.6vh;
     background-color: #D23166;
     border-radius: 0.4vw;
