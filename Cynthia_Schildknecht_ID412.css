@@ -14,19 +14,20 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
 }
 
 .topnav { 
-    margin-left: 1vw;
+    margin-left: 0.2vw;
     font-size: 0.8vw;
+    margin: 1vw;
 
 }
 
 .home{  
     color: #D23166;
     font-weight: bolder;
-}
+  }  
 
 .logo {
     margin: 20vw;
-    margin-left: 18vw;
+    margin-left: 17vw;
     
 }
 
@@ -126,7 +127,7 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
  }
 
  .box1 {
-     outline: 0.5px solid rgb(222, 220, 220);
+     outline: 0.1px solid rgb(222, 220, 220);
      border-radius: 0.5vw;
      padding: 1vw;
      box-shadow: 10px 10px 10px rgb(212, 212, 212);
@@ -135,19 +136,19 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
  }
 
  .box2 {
-    outline: 0.5px solid rgb(222, 220, 220);
+    outline: 0.1px solid rgb(222, 220, 220);
      border-radius: 0.5vw;
      padding: 1vw;
  }
 
 .box3{
-    outline: 0.5px solid rgb(222, 220, 220);
+    outline: 0.1px solid rgb(222, 220, 220);
      border-radius: 0.5vw;
      padding: 1vw;
 }
 
 .box4{
-    outline: 0.5px solid rgb(222, 220, 220);
+    outline: 0.1px solid rgb(222, 220, 220);
     border-radius: 0.5vw;
     padding: 1vw;
     margin-right: 4vw;
@@ -171,7 +172,7 @@ footer {
 }
 
 .logo2 {
-    margin-left: 18vw;
+    margin-left: 19vw;
     
 }
 
@@ -182,22 +183,22 @@ footer {
 
 .footert1 p {
     color: white;
-    margin-left: 18vw;
-    font-size: 1vw;
+    margin-left: 19vw;
+    font-size: 0.8vw;
 
 }
 
 .footert2 p {
     color: white;
-    margin-left: 18vw;
-    font-size: 1vw;
+    margin-left: 19vw;
+    font-size: 0.8vw;
     font-weight: bold;
 
 }
 
 .resaux {
     display: flex;
-    margin-left: 17vw;
+    margin-left: 18vw;
 
 
 }
@@ -210,15 +211,16 @@ footer {
 
 
 .footert3 {
-    margin-top: 4vw;
+    margin-top: 5vw;
 
 }
+
 .footert3 p {
     
-    margin-left: 7vw;
+    margin-left: 8vw;
     line-height: 2vh;
     color: white;
-    font-size: 1vw;
+    font-size: 0.8vw;
 }
 
 .footert4 {
@@ -227,10 +229,10 @@ footer {
 }
 .footert4 p {
     
-    margin-left: 9vw;
+    margin-left: 12vw;
     line-height: 2vh;
     color: white;
-    font-size: 1vw;
+    font-size: 0.8vw;
 }
 
 .footert5 {
@@ -242,14 +244,14 @@ footer {
     margin-left: 9vw;
     line-height: 2vh;
     color: white;
-    font-size: 1vw;
+    font-size: 0.8vw;
     font-weight: bolder;
 }
 
 .footert5 {
     margin-left: 7.5vw;
     color: white;
-    font-size: 1vw;  
+    font-size: 0.8vw;  
 }
 
 .news {
@@ -259,13 +261,15 @@ footer {
 
 .mail {
     
-    margin-top: 1vh;
+    margin-top: 3vh;
+    margin-left: 1.5vw;
+    opacity: 50%;
     
 }
 
 .buttonh {
-   margin-left: 10.2vw;
-   margin-top: -3vh;
+   margin-left: 10.5vw;
+   margin-top: -2vh;
    font-weight: bolder;
 }
 
