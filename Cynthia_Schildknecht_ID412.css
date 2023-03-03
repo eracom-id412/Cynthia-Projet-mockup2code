@@ -1,7 +1,11 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto:wght@700&display=swap');
 
 body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     gap: 1vw; 
+    margin: 0;  
     
 } 
 
@@ -11,23 +15,26 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
     height: 10vh;
     top: 1vw;
     background-color: #F2CEDA;
+    padding: 3vh;
+    font-family: roboto , sans-serif;
 }
 
 .topnav { 
-    margin-left: 0.2vw;
     font-size: 0.8vw;
-    margin: 1vw;
+    margin: 1.2vw;
+    
 
 }
 
 .home{  
     color: #D23166;
     font-weight: bolder;
+    margin-left: -5vw;
   }  
 
 .logo {
     margin: 20vw;
-    margin-left: 17vw;
+    margin-left: 16vw;
     
 }
 
@@ -74,20 +81,26 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
 
 .texte2 {
     font-size: 0.8vw;
-    
-     
+    font-family: roboto , sans-serif;
+       
 }
 
-.texte3 {   
+.h1 {   
     font-size: 2vw;
+    font-family: 'Fredoka One', cursive;
 }
 
-.texte3 h1 {
+.h1 {
     margin-top: 1vw;
-    }
+    font-family: 'Fredoka One', cursive;
 
+    }
+.color {
+    color: #D23166;
+}
 .texte4 {
     font-size: 1vw;
+    font-family: 'Nunito Sans', sans-serif;
     
 }
 
@@ -124,6 +137,8 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
     text-align: center;
     justify-content: space-around;
     font-size: 10px;   
+    font-family: 'Nunito Sans', sans-serif;
+
  }
 
  .box1 {
@@ -149,7 +164,7 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
 
 .box4{
     outline: 0.1px solid rgb(222, 220, 220);
-    border-radius: 0.5vw;
+    border-radius: 0.2vw;
     padding: 1vw;
     margin-right: 4vw;
 }
@@ -159,7 +174,9 @@ footer {
     background-color: black;
     display: flex;
     align-items: center;
-    height: 30vw;
+    height: 26vw;
+    font-family: roboto , sans-serif;
+    font-size: light;
 }
 .foot {
     margin-left: -2vw;
@@ -177,7 +194,7 @@ footer {
 }
 
 .logo2 img {
-    height: 9vh;
+    height: 10vh;
     width: 5vw;
 }
 
@@ -224,7 +241,7 @@ footer {
 }
 
 .footert4 {
-    margin-top: 4vw;
+    margin-top: 3vw;
 
 }
 .footert4 p {
@@ -236,7 +253,7 @@ footer {
 }
 
 .footert5 {
-    margin-top: -3vw;
+    margin-top: -2vw;
 
 }
 .footert5 h1 {
